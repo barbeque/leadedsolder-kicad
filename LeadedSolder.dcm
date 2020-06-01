@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP MB620468
+D Gate array chip from the Sony Video Titler XV-T33F
+$ENDCMP
+#
 $CMP PLCCZ80
 D The PLCC variant of the Zilog Z80
 $ENDCMP
